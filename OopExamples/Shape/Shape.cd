@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OopExamples.ShapeClass.Shape" Collapsed="true">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ShapeWithClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OopExamples.ShapeClass.Circle" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAABAQAAAAA=</HashCode>
+      <FileName>ShapeWithClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OopExamples.ShapeClass.Rectangle" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAQAAAQAAAAA=</HashCode>
+      <FileName>ShapeWithClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OopExamples.ShapeClass.Square" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShapeWithClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OopExamples.ShapeInterface.Circle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgIAAAAAAAAAAAAACAAAAAABAQAAAAA=</HashCode>
+      <FileName>ShapeWithInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OopExamples.ShapeInterface.Rectangle" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACAAgAQAAAQAAAAA=</HashCode>
+      <FileName>ShapeWithInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OopExamples.ShapeInterface.Square" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShapeWithInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OopExamples.ShapeInterface.IShape">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ShapeWithInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
